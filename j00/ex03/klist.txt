@@ -1,0 +1,7 @@
+Credentials cache: API:13774
+        Principal: nsimon@42.FR
+
+  Issued                Expires               Principal
+Jul  8 13:37:47 2015  Jul  8 23:36:51 2015  krbtgt/42.FR@42.FR
+Jul  8 13:37:53 2015  Jul  8 23:36:51 2015  nfs/zfs-student-1.42.fr@42.FR
+Jul  8 13:37:54 2015  Jul  8 23:36:51 2015  nfs/zfs-student-5.42.fr@42.FR
